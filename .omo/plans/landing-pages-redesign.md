@@ -729,3 +729,5 @@ pnpm --filter landing build  # Expected: exit 0, no errors
 - [ ] Build passes
 - [ ] No TypeScript errors
 - [ ] No console errors on any page
+
+# session wip 0
