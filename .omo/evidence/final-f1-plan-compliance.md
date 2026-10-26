@@ -182,3 +182,5 @@ pnpm --filter @openlinear/desktop-ui typecheck   # expect exit 0
 ```
 
 Then this verdict flips to **APPROVE**.
+
+# session wip 0
