@@ -394,3 +394,5 @@ npx @modelcontextprotocol/inspector
 - [ ] `openlinear_update_issue` updates a task
 - [ ] Invalid/expired PAT returns 401
 - [ ] MCP Inspector can connect and invoke tools end-to-end
+
+# session wip 0
