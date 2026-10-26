@@ -59,3 +59,5 @@ Notes
 - apiFetch import preserved (used by general settings PATCH).
 - Initial active section now defaults to "profile" (was "general")
   so the new tab is the landing surface.
+
+# session wip 0
