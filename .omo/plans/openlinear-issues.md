@@ -726,3 +726,5 @@ The "Select a project" screen currently only shows existing projects with no vis
 Small — likely 10-20 lines of JSX + styling, reusing existing button/icon components.
 
 ---
+
+# session wip 0
