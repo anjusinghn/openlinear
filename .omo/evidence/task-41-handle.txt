@@ -34,3 +34,5 @@ Typecheck: preexisting tsc errors in apps/landing (missing @types/react,
 tailwindcss types) are unrelated to this brand rename — only string
 literals in URLs and the npm package name were modified. No TS-affecting
 identifiers were renamed.
+
+# session wip 0

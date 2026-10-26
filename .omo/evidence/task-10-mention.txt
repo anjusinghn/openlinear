@@ -59,3 +59,5 @@ Typecheck:
   (pre-existing errors in app.ts, tasks.ts, teams.ts, settings.ts
    from in-progress T8 sse migration / T9 zod refactor are
    out-of-scope for T10.)
+
+# session wip 0
