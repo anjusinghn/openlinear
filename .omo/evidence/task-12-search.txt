@@ -66,3 +66,5 @@ QA scenario walkthrough (logical):
   → res.json({ tasks, projects, teams })
 
   User B's tasks (in team t99) are excluded because t99 ∉ [t1,t2].
+
+# session wip 0
