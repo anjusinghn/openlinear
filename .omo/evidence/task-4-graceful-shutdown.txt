@@ -17,3 +17,5 @@ PASS CRITERIA:
   - Log shows 'SIGTERM received, draining...'
   - Log shows 'prisma disconnected'
   - Process exits well within 10s force-exit window
+
+# session wip 0
