@@ -24,3 +24,5 @@
 - Bare clones go to `.main` subdir; worktrees branch off from there
 - Git porcelain output: lines starting with `worktree ` contain the path
 - Empty catch blocks are fine for best-effort cleanup (e.g. merge --abort)
+
+# session wip 0
