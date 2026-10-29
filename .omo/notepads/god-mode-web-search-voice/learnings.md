@@ -17,3 +17,5 @@
 - The brainstorm service has two OpenAI call sites: one non-streaming (generateQuestions) and one streaming (generateTasks) - both need the param
 - Zod `.optional().default(false)` ensures backward compatibility - existing callers without webSearch get `false`
 - lsp_diagnostics showed zero errors after all changes
+
+# session wip 0
