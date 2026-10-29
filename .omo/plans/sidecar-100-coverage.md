@@ -497,3 +497,5 @@ Before writing any test, read the **source file** and the **existing test file**
 
 *Plan generated: 2026-05-23*
 *Target: `apps/sidecar` 100% test coverage*
+
+# session wip 0
