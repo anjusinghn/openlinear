@@ -9,3 +9,5 @@ Result of grep on cloned .git/config from happy-path test:
 PASS: no oauth2: token in .git/config
 
 grep 'oauth2:' result: NO MATCHES (token never written to disk)
+
+# session wip 0
