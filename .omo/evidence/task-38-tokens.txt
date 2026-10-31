@@ -95,3 +95,5 @@ $ grep -rEn 'bg-\[#|text-\[#|border-\[#' apps/desktop-ui/components/ apps/deskto
 
 Typecheck: 752 errors before, 752 errors after — no new errors introduced
 (pre-existing baseline issue: monorepo @types/react resolution under tsc --noEmit)
+
+# session wip 0
