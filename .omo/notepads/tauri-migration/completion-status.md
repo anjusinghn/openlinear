@@ -80,3 +80,5 @@ pnpm build:desktop  # produces .dmg
 # 2. Create tasks
 # 3. Run OpenCode on a task
 ```
+
+# session wip 0
