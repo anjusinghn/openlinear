@@ -110,3 +110,5 @@
 2. `apps/api/src/app.ts` — Added import + `app.use('/api/teams', teamsRouter)`
 3. `apps/api/src/__tests__/teams.test.ts` — Created, 254 lines, 15 tests
 4. `apps/api/vitest.config.ts` — Bumped testTimeout to 30000, added hookTimeout: 30000
+
+# session wip 0
