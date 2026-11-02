@@ -340,3 +340,5 @@ pnpm --filter @openlinear/api typecheck
 - `.env.example` — add `DASHBOARD_URL`
 - `.env.production` — add `DASHBOARD_URL` and update `CORS_ORIGIN`
 - `turbo.json` — add dashboard to build pipeline (auto-detected via package.json)
+
+# session wip 0
