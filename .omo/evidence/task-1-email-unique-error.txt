@@ -4,3 +4,5 @@ DETAIL:  Key (email)=(dup@test.com) already exists.
 
 === Cleanup any partial inserts ===
 DELETE 0
+
+# session wip 0
