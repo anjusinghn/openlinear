@@ -28,3 +28,5 @@ Verification:
   (2 remaining errors are in untracked components/shortcuts-overlay.tsx from T28, unrelated)
 - next-themes installed and resolves correctly
 - ThemeProvider wraps all client tree; suppressHydrationWarning already on <html>
+
+# session wip 0
