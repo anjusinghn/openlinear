@@ -15,3 +15,5 @@
 - Conflict Handling: Skip conflicting task, continue others, notify user
 - Cancel Granularity: Individual tasks within batch
 - Max Batch Size: Configurable in settings, default 3
+
+# session wip 0
