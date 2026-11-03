@@ -47,3 +47,5 @@ God-mode unbind:
   Before:  isMac ? (Alt+Space) : (Ctrl+K)
   After:   isMac && Alt+Space    -- windows binding removed entirely
            Comment added pointing to T25 owner; T46 will cull god-mode entirely.
+
+# session wip 0
