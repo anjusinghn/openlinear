@@ -138,3 +138,5 @@ cd packages/db && npx prisma migrate dev --name add-personal-access-tokens
 - [ ] Settings UI page: create, list, revoke tokens
 - [ ] One-time token reveal with copy-to-clipboard
 - [ ] `lastUsedAt` updates on each authenticated request via PAT
+
+# session wip 0
