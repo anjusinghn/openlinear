@@ -6,3 +6,5 @@
 
 === TS exit code ===
 tsc --noEmit: PASS (exit 0)
+
+# session wip 0
