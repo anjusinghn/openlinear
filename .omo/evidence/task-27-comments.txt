@@ -23,3 +23,5 @@
 ## Salvage note
 
 T27 subagent timed out after 30min inactivity AFTER the substantive work was complete. Orchestrator added missing `'user'` case to `OwnershipResourceType` union (needed by T32 in same wave) which was the only typecheck blocker. Component itself was implementation-complete.
+
+# session wip 0
