@@ -210,3 +210,5 @@ No config changes needed — just adding the new tool file and registering it.
 - [ ] End-to-end works from MCP Inspector
 - [ ] Error cases return actionable error messages (not stack traces)
 - [ ] Deployed to `mcp.openlinear.tech` and functional
+
+# session wip 0
