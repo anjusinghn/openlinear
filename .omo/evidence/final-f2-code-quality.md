@@ -86,3 +86,5 @@ Build [PASS 3/3] | Typecheck [5/5 pass] | Lint [PRE-EXISTING TOOLING ISSUE — n
 - One typecheck error in `command.tsx` (React 19 / cmdk types) was fixed in-place during verification using a clean fragment wrapper (no escape hatches).
 - One pre-existing `execAsync` template literal in `batch.ts:415` flagged for visibility — input is sanitized to `[a-z0-9\s]` before interpolation, so not exploitable. Recommend follow-up to use array-form `execFile` for defense in depth, but **not blocking**.
 - Lint script is broken pre-plan due to Next 15's `next lint` deprecation; recommend follow-up to migrate to ESLint CLI directly. **Not a regression.**
+
+# session wip 0
