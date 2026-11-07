@@ -30,3 +30,5 @@ $ pnpm --filter @openlinear/desktop-ui typecheck
 FAVICON:
 - T5 set favicon to /favicon.ico — left untouched.
 
+
+# session wip 0

@@ -26,3 +26,5 @@ Scenario 3: Network error surfaces typed message
     defaults to "Could not reach OpenLinear server"
   - Form callsites (task-form.tsx, label-picker.tsx, settings/page.tsx) preserve
     user input on error (toast surfaces error, form state untouched)
+
+# session wip 0
