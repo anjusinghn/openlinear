@@ -21,3 +21,5 @@ Removed entries (no real pages):
   Company:  Help Center, Careers, Partners
   Legal:    Terms, Privacy Policy, Trust, Legal Notices
   Social:   LinkedIn, X, Discord
+
+# session wip 0
