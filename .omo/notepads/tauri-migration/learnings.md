@@ -117,3 +117,5 @@ The `@yao-pkg/pkg` tool cannot directly bundle ES modules. The API uses `"type":
 - Linux sidecar binary starts Express server successfully
 - Desktop binary launches (GTK/WebKit confirmed)
 - .deb bundle: 32MB built successfully
+
+# session wip 0
