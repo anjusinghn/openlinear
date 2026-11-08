@@ -41,3 +41,5 @@ Files changed in this commit:
    M apps/desktop-ui/providers/sse-provider.tsx
    M apps/desktop-ui/app/my-issues/page.tsx
    M apps/desktop-ui/components/board/use-kanban-board.ts
+
+# session wip 0
