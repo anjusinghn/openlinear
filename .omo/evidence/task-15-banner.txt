@@ -83,3 +83,5 @@ FILES TOUCHED
 docs/limitations.md                                    (new, ~75 lines)
 apps/sidecar/src/index.ts                              (+38 lines net)
 apps/sidecar/src/services/opencode.ts                  (param rename + comment)
+
+# session wip 0
