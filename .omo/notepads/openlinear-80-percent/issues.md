@@ -16,3 +16,5 @@
 - DB tables existed without `_prisma_migrations` (created via `db:push` historically). Running `prisma migrate dev` would prompt for DB reset (data-destructive). Instead used the baseline + manual + `migrate resolve --applied` pattern documented in learnings.md. Future migrations CAN now use `prisma migrate dev` normally because the history table is consistent.
 - The auto-generated diff DROPPED the `projects` table (which holds Repository data) instead of renaming. Caught before applying. Manual migration uses `ALTER TABLE RENAME` to preserve all rows.
 - `pnpm db:migrate dev --name 80_percent_foundation` (per package.json script) was NOT used — it would have done the data-destructive DROP+CREATE for the rename and prompted for reset. Manual SQL was required.
+
+# session wip 0
