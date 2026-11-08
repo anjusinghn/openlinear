@@ -4,3 +4,5 @@ hint: See `man git check-ref-format`
 hint: Disable this message with "git config set advice.refSyntax false"
 Post: marker exists = true
 PASS: shell injection BLOCKED via execFile arg array
+
+# session wip 0
