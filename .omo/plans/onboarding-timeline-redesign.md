@@ -83,3 +83,5 @@ Small — single component replacement, ~80-120 lines, no backend changes.
 - Pulsing ring animation on active step via `motion.span` with infinite scale/opacity loop
 - Spring transitions for all state changes
 - `useReducedMotion()` gating on all animations
+
+# session wip 0
