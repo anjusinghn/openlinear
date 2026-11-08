@@ -939,3 +939,5 @@ curl -N -X POST http://localhost:3001/api/brainstorm/generate \
 - [x] Error state shown when no AI provider is configured
 - [x] Panel state properly resets on close
 - [x] Environment variables documented in .env.example
+
+# session wip 0
