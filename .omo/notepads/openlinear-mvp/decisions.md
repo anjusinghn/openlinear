@@ -17,5 +17,3 @@
 - Express router pattern with Zod validation
 - Broadcast SSE on all mutations
 - OpenCode service with session tracking and 30min timeout
-
-# session wip 0
