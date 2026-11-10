@@ -888,5 +888,3 @@ T26 (markdown rendering):
   context matters more than uniformity.
 - 4MB PNG placeholder → ~400 byte SVG. Always check file sizes before
   shipping placeholder assets to prod.
-
-# session wip 0
