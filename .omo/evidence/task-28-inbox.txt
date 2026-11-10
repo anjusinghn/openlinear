@@ -73,5 +73,3 @@ re-creates it from scratch with notification-based logic.
 [X] No 'as any' or @ts-ignore introduced:
     $ grep -n 'as any\|@ts-ignore' apps/desktop-ui/app/inbox/page.tsx apps/desktop-ui/components/layout/sidebar.tsx
     (no matches)
-
-# session wip 0

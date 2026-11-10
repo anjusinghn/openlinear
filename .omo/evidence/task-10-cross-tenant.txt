@@ -39,5 +39,3 @@ DELETE permission ladder:
 
 PATCH is strictly author-only — even team owners cannot edit other
 users' comments (per T10 "Must NOT do" constraint).
-
-# session wip 0

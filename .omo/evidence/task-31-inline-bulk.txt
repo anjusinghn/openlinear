@@ -58,5 +58,3 @@ Constraints honored:
 - No `as any`
 - No modal opened for inline create
 - DnD preserved when selectionActive=false
-
-# session wip 0
