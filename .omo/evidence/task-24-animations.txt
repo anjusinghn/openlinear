@@ -95,5 +95,3 @@ Diff summary (line counts):
 All files compile clean (tsc --noEmit, exit 0).
 No `as any`, no `@ts-ignore`, no removal of motion (only gating).
 Width/box-shadow/border-color animations eliminated from interactive paths.
-
-# session wip 0

@@ -54,5 +54,3 @@
 3. `apps/sidecar/src/services/opencode.ts` — `_userId` → `userId` (the param now carries semantic intent for future isolation; `void userId;` marker + comment prevent future maintainers from deleting it under `noUnusedParameters`).
 
 **Failure mode the guard prevents**: Operator deploys a multi-tenant sidecar without realizing User A's OpenAI key is visible to User B via shared `auth.json`.
-
-# session wip 0

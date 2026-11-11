@@ -37,5 +37,3 @@ PASS CRITERIA:
   - x-request-id header in response
   - Log entry has authorization=[REDACTED] and cookie=[REDACTED]
   - Log entry has matching requestId
-
-# session wip 0
