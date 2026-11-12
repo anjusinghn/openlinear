@@ -48,5 +48,3 @@ exit=0
 - Sidebar AlertDialog placed inside `<aside>` so its portal mounts within the existing tree
 - Page-level dialogs placed alongside the existing delete-team Dialog in teams/manage to keep the related modals co-located
 - The existing custom `<Dialog>` for "Delete Team" in teams/manage was NOT touched — it was already a controlled modal (just non-AlertDialog), and rewriting it was outside scope
-
-# session wip 0
