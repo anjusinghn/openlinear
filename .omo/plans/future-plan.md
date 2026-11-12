@@ -81,5 +81,3 @@ Currently, the invite flow only supports copying an invite link. We intentionall
 Medium — requires email provider setup, template design, backend queue/worker for sending, and frontend UI for managing invites.
 
 ---
-
-# session wip 0
