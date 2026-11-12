@@ -2276,5 +2276,3 @@ psql ... -c "SELECT count(*) FROM agent_runs;"  # Expected: > 0
 - [x] All "Must NOT Have" absent
 - [x] All 4 final-wave reviews APPROVE
 - [ ] User explicitly approves consolidated review summary
-
-# session wip 0
