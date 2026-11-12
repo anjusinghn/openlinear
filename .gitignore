@@ -88,5 +88,3 @@ apps/dashboard/
 # Runtime upload directory (user content, not source).
 apps/sidecar/uploads/
 apps/api/uploads/
-
-# session wip 0
