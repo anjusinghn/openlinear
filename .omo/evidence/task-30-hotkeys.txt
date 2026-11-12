@@ -28,5 +28,3 @@ Notes:
 - Stash/reset churn during the session blew away in-flight files twice; recovered each time.
 - `c` dispatches a CustomEvent so the existing GlobalQuickCapture (or future listener) can open without
   bidirectional coupling from this component into capture's internal state.
-
-# session wip 0

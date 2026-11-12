@@ -840,5 +840,3 @@ npx @modelcontextprotocol/inspector
 - Execution tools: trigger task execution via sidecar
 - Webhook subscriptions: notify AI when tasks complete
 - Rate limiting on the Worker (using Cloudflare Rate Limiting rules)
-
-# session wip 0
