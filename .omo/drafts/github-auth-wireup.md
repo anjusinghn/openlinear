@@ -63,5 +63,3 @@
 - INCLUDE: Env vars, sidebar auth UI, header cleanup
 - INCLUDE?: Security fixes (state validation, token delivery, JWT centralization)
 - EXCLUDE: Probably don't need token encryption at rest for a local dev tool
-
-# session wip 0
