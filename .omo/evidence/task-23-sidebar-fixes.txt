@@ -41,5 +41,3 @@ QA — manual code review:
 - Sign-in flow: TeamsProvider re-fetches when user.id transitions null→id
 - Sign-out flow: AuthProvider.logout() clears user; user.id change triggers TeamsProvider.reload() which short-circuits (isAuthenticated false) and sets teams=[]
 - Close button (red traffic light) now actually closes the window instead of minimizing (UX fix)
-
-# session wip 0
