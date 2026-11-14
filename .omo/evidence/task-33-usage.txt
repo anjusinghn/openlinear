@@ -75,5 +75,3 @@ VERIFICATION
   $ cd apps/desktop-ui && npx tsc --noEmit  -> EXIT 0  (clean)
 
   Playwright skipped per task instructions (typecheck + code review sufficient).
-
-# session wip 0

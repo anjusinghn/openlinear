@@ -28,5 +28,3 @@ Diff:
   +      email: "demo@openlinear.tech",
   -  // 4. Link kaz to Default team
   +  // 4. Link demo user to Default team
-
-# session wip 0
