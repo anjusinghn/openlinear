@@ -22,5 +22,3 @@
 ## Salvage note
 
 T32 subagent timed out after 30min inactivity. The backend filter logic + schema updates are complete. UI picker integration in task-detail-view is committed alongside. The only blocker was the missing `'user'` case in OwnershipResourceType which the orchestrator added.
-
-# session wip 0

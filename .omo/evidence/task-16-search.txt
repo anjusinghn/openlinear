@@ -58,5 +58,3 @@ Skipped per task spec ("Container QA NOT REQUIRED — preview container would ne
 ## Files Touched
 - apps/desktop-ui/app/page.tsx (1 line added)
 - apps/desktop-ui/components/board/use-kanban-board.ts (3 imports, 1 prop, derivation block)
-
-# session wip 0
