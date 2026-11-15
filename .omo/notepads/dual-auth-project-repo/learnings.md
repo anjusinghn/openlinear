@@ -55,5 +55,3 @@
 - If repoUrl provided: calls addRepositoryByUrl() to clone and create Repository record
 - If localPath provided: stores directly on project
 - Schema accepts both via zod validation
-
-# session wip 0
