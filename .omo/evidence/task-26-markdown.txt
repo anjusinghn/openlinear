@@ -30,5 +30,3 @@ Verification:
 Out of scope (per plan):
 - Comments UI itself (T27 will import MarkdownView).
 - Playwright (skipped per instructions).
-
-# session wip 0
