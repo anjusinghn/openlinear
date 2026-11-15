@@ -40,5 +40,3 @@ Route (app)
 
 ○  (Static)  prerendered as static content
 
-
-# session wip 0
