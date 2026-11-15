@@ -31,5 +31,3 @@ AUDIT EVIDENCE:
 NOTE: This task was effectively completed as part of commit 117d517 ("refactor(brand): replace PNG logos with SVG everywhere"). No further code changes required for T36.
 
 Working tree status after re-verification: CLEAN.
-
-# session wip 0

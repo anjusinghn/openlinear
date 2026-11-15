@@ -956,5 +956,3 @@ pnpm --filter @openlinear/desktop-ui build  # Expected: exit 0
 - [ ] All tests pass
 - [ ] All builds pass
 - [ ] CustomEvent contract updated with backward compatibility
-
-# session wip 0

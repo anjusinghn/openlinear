@@ -213,5 +213,3 @@ Foreign-key constraints:
 Referenced by:
     TABLE "linear_projects" CONSTRAINT "linear_projects_repositoryId_fkey" FOREIGN KEY ("repositoryId") REFERENCES repositories(id) ON UPDATE CASCADE ON DELETE SET NULL
 
-
-# session wip 0
