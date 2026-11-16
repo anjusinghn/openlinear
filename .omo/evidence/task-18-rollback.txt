@@ -76,5 +76,3 @@ ACCEPTANCE CRITERIA
 [x] No new state — reuses existing setTasks / setSelectedTaskId / setSelectedTaskIds
 [x] typecheck clean
 [x] No `as any`
-
-# session wip 0

@@ -8,5 +8,3 @@
 ### Gotchas
 - Plan says Drizzle but Prisma is used - db commands are `prisma db push` not drizzle
 - Frontend is basic shell only - needs kanban board implementation
-
-# session wip 0
