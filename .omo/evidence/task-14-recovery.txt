@@ -56,5 +56,3 @@ SEMANTICS RECORDED IN NOTEPAD
 - Never auto-restart task execution (would risk duplicate PRs)
 - Tasks within the 1h window are left alone (T15 OpenCode reconnect target)
 - Recovery never blocks boot — wrapped in try/catch with logger.error
-
-# session wip 0
