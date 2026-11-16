@@ -33,5 +33,3 @@ Step 10: Labels list (per-user team scope):
 HTTP/1.1 200 OK
 
 All happy-path operations succeeded.
-
-# session wip 0

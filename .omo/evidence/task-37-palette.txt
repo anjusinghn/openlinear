@@ -101,5 +101,3 @@ VERIFICATION
 - No JS files modified by this task
 
 JS REGRESSIONS: none (CSS-only change + new markdown doc)
-
-# session wip 0

@@ -27,5 +27,3 @@ pkg doesn't fully support ES modules. The API would need to be refactored to Com
 
 ### Status: BLOCKED
 Requires architectural decision on sidecar strategy.
-
-# session wip 0
