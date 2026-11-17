@@ -52,5 +52,3 @@ Full setup guide and architecture docs in the [repository](https://github.com/op
 ### License
 
 [MIT](https://github.com/openlinear/openlinear/blob/main/LICENSE)
-
-# session wip 0
