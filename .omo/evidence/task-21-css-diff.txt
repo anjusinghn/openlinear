@@ -44,5 +44,3 @@ index 8bf54cb..a91089a 100644
 +    scroll-behavior: auto !important;
 +  }
 +}
-
-# session wip 0
