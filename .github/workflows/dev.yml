@@ -128,5 +128,3 @@ jobs:
 
       - name: Build all packages
         run: pnpm build --filter '!@openlinear/desktop' --filter '!intro-video'
-
-# session wip 0
