@@ -8,5 +8,3 @@
 - `GeneratedTask` interface and `TaskCard` component kept as-is for Task 5 (stream wiring)
 - `answers` state is `Record<string, string>` keyed by question text — will need conversion to `{ question, answer }[]` array format in Task 5 for the streaming API
 - Sidebar expands to 400px for both `"questions"` and `"stream"` phases
-
-# session wip 0
