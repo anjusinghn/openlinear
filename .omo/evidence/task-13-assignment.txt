@@ -143,5 +143,3 @@ Typecheck
   $ pnpm --filter @openlinear/sidecar typecheck
   > tsc --noEmit
   EXIT=0
-
-# session wip 0
