@@ -61,5 +61,3 @@ API boot [PASS] | Auth enforcement [PASS] | Build [PASS] | Evidence files [62/48
 **Notes / follow-ups (non-blocking):**
 1. `express-rate-limit` IPv6 keyGenerator warning in `routes/search.ts:11` — fix per https://express-rate-limit.github.io/ERR_ERL_KEY_GEN_IPV6/
 2. Auth middleware 401 and unknown-route 404 don't go through the T4 error envelope (return minimal `{error}` / Express HTML respectively). Functionally fine, cosmetically inconsistent.
-
-# session wip 0
