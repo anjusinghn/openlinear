@@ -65,5 +65,3 @@ When run end-to-end against a configured environment:
 - AgentRun create/update wrapped in try/catch; failures log + continue
   (never block execution). Per spec: "DO NOT block execution on agent_runs
   write failure — log + continue".
-
-# session wip 0
