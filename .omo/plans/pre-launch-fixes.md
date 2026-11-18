@@ -359,5 +359,3 @@ pnpm --filter @openlinear/db prisma migrate dev --name add_settings_user_id
 - **Phase 4 (Sidecar Security) is non-negotiable.** RCE on a user's machine is a company-ending bug.
 - **Test after every Phase.** Don't batch all changes and test at the end. Test incrementally.
 - **Document every change.** The audit trail will be useful for post-mortem and compliance.
-
-# session wip 0
