@@ -60,5 +60,3 @@ Keep-Alive: timeout=5
 HTTP/1.1 500 Internal Server Error
 Cross-Origin-Opener-Policy: same-origin
 
-
-# session wip 0
