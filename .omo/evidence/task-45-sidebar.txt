@@ -36,5 +36,3 @@ DO NOT broken:
 - No Playwright run.
 
 Time: ~12 min.
-
-# session wip 0
