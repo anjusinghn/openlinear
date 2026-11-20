@@ -121,5 +121,3 @@ Integration tests covering:
 - [ ] 100-task cap enforced at validation layer
 - [ ] Works with both JWT and PAT auth
 - [ ] Integration tests pass
-
-# session wip 0
