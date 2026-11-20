@@ -26,5 +26,3 @@ Connection: keep-alive
 Keep-Alive: timeout=5
 
 {"error":"Unauthorized"}
-
-# session wip 0
