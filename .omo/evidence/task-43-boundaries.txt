@@ -38,5 +38,3 @@ apps/landing/app/not-found.tsx
 === Typecheck note ===
 Pre-existing baseline @types/react resolution errors affect every file in apps/desktop-ui (env issue, not introduced by T43).
 Diff: 773 errors with T43 vs 774 without — zero net new errors from T43 files.
-
-# session wip 0

@@ -118,5 +118,3 @@ kill %1 %2
 grep -c "task:created" /tmp/sse-a.log /tmp/sse-b.log
 # Expected: sse-a.log:1, sse-b.log:0
 ```
-
-# session wip 0
