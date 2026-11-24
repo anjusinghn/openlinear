@@ -26,5 +26,3 @@ Verification:
 Notes:
 - Plan-listed line numbers were stale by the time I read the files (concurrent edits had shifted them); fixed by ripgrep + structural matching against the catch blocks rather than line ranges.
 - Repo working tree was modified externally during the edit pass (other agents) which silently reverted some edits between rounds; re-applied all edits after verifying via grep that the silent swallows had returned.
-
-# session wip 0
